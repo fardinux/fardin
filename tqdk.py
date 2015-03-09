@@ -47,7 +47,7 @@ if qrup == 1:
     print "Səhv cavabların sayı:", sehv_bir, ", boşların sayı:", bos_bir
 
 if qrup == 2:
-    # 2ci qrup
+    # 2ci qrup 
     print " "
     cog_iki_sehv = float(raw_input("Coğrafiya fənnindən olan səhvlərin sayı: "))
     cog_iki_bos = float(raw_input("Coğrafiya fənnindən olan boşların sayı: "))
