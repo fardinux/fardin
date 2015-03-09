@@ -6,8 +6,8 @@ __author__ = 'fardin'
 
 while True:
     option = int(raw_input(
-        'Welcome to calculator program.\n1)Add\n2)Subtract\n3)Multiply\n4)Divide\n5)Modulo\nChoose\
-         one of the options above: '))  # menu
+        'Welcome to calculator program.\n1)Add\n2)Subtract\n3)Multiply\n4)Divide\n5)Modulo\
+        \nChoose one of the options above: '))  # menu
     num1 = float(raw_input('Enter first number: '))  # first number
     num2 = float(raw_input('Enter second number: '))  # second number
     if option == 1:
@@ -21,4 +21,4 @@ while True:
     elif option == 5:
         print num1, '%', num2, '=', num1 % num2  # modulo
     else:
-        print 'Invalid input' 
+        print 'Invalid input'
