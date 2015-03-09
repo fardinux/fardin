@@ -21,4 +21,4 @@ while True:
     elif option == 5:
         print num1, '%', num2, '=', num1 % num2  # modulo
     else:
-        print 'Invalid input'
+        print 'Invalid input' 
