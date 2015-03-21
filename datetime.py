@@ -2,6 +2,7 @@
 
 # A simple programs that "tells" current date and time
 # Written in Python2
+__author__ = 'fardin'
 
 from datetime import datetime
 now=datetime.now()
