@@ -6,5 +6,5 @@
 from datetime import datetime
 now=datetime.now()
 
-print "Today is: %s/%s/%s" %(now.day, now.month, now.year)
-print "Current time is: %s:%s:%s" %(now.hour, now.minute, now.second)
+print 'Today is: %s/%s/%s' %(now.day, now.month, now.year)
+print 'Current time is: %s:%s:%s' %(now.hour, now.minute, now.second)
