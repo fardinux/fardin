@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# A simple programs which "tells" current date and time
+# A simple programs that "tells" current date and time
 # Written in Python2
 
 from datetime import datetime
