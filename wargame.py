@@ -9,7 +9,7 @@ class Oyun(object):
   def goster(self):
     print "Güc", self.guc
     print "Pul", self.pul
-    print "Işçi", self.isci
+    print "İşçi", self.isci
     print "Fabrika" , self.fabrika
     
 oyun = Oyun()
