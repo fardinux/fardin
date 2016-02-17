@@ -1,6 +1,6 @@
-#coding:utf-8
+# coding:utf-8
 
-"""import this module by typing 'import coke' in yourt Python \
+"""import this module by typing 'import coke' in your Python \
 interpreter and get the coke formula! """
 
 cola = 'The primary ingredients of Coca-Cola syrup include either high fructose corn syrup or\
